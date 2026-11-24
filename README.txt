@@ -1,0 +1,1 @@
+Sube TODO el contenido de este ZIP a un repositorio de GitHub y activa GitHub Pages (Settings > Pages > Deploy from a branch, rama main, carpeta /root). La galeria estara en https://TU-USUARIO.github.io/TU-REPO/\nCada .bin pesa <20MB para entrar por la web de GitHub. index.html reune los trozos automaticamente.
